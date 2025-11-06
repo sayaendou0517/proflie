@@ -1,0 +1,105 @@
+li{list-style:none;}
+
+.over-all{
+    padding:0 20px;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffe380;
+    padding: 20px 30px;
+
+}
+
+.header-list ul{
+    display: flex;
+    gap: 30px;
+    font-size: 15px;
+}
+
+.main{
+    padding-top: 20px;
+}
+
+.main-mid{
+    font-size: 25px;
+    border-top: 5px solid #cccccc;
+    border-bottom: 5px solid #cccccc;
+}
+
+.about{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 5px solid #cccccc;
+    margin-top: 20px;
+}
+
+.about-me{
+    width:25%;
+    font-size: 15px;
+}
+
+
+.me{
+    width: 25%;
+    height: 550px;
+    object-fit: cover;
+    padding-bottom: 20px;
+    
+}
+
+.about{
+    display: flex;
+    
+}
+
+.about-me-text{
+    text-align: left;
+    margin-left: 45px;
+    width:50%
+}
+
+.favorites{
+    display: flex;
+    border-bottom: 5px solid #cccccc;
+padding-bottom: 20px;
+}
+
+.favorite{
+    width: 25%;
+}
+
+.favorite-container {
+    width: 75%;
+    display: flex;
+    gap: 30px;
+}
+
+.ff{
+    width: 100%;
+    height: 315px;
+    padding-top: 20px;
+    object-fit: cover;
+    margin-bottom: 30px;
+}
+
+.favorite-logo{
+    font-size: 15px;
+}
+
+.study-about{
+     font-size: 15px;
+}
+
+.study{
+    display:flex;
+    gap:30px;
+    padding-top: 20px;
+    border-bottom: 5px solid #cccccc;
+    
+}
+
+.study-content{
+
+}
